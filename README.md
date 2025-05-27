@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
 This should yield a Scene that looks like so:
 
-![Example Output Screenshot](https://raw.githubusercontent.com/Alexander-Nasuta/manim-themes/master/resources/MinimalThemeExample_ManimCE_v0.19.0.png)
+![Example Output Screenshot](https://raw.githubusercontent.com/Alexander-Nasuta/manim-qr-codes/master/resources/MyQrCodeScene_ManimCE_v0.19.0.png)
 
 
 ### Documentation
