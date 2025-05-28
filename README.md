@@ -5,7 +5,7 @@
 
 ## About this Project
 
-This poject contains a Python Module that provides allows theming of [Manim](https://www.manim.community) projects with [QR Codes](https://en.wikipedia.org/wiki/QR_code).
+This poject contains a Python Module that provides allows creating QR Codes in [Manim](https://www.manim.community) projects.
 
 ## Installation
 
