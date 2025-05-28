@@ -1,3 +1,8 @@
+[![PyPI version](https://img.shields.io/pypi/v/manim-qr-codes)](https://pypi.org/project/manim-qr-codes/)
+![License](https://img.shields.io/pypi/l/manim-qr-codes)
+[![Documentation Status](https://readthedocs.org/projects/manim-qr-codes/badge/?version=latest)](https://manim-qr-codes.readthedocs.io/en/latest/?badge=latest)
+
+
 ## About this Project
 
 This poject contains a Python Module that provides allows theming of [Manim](https://www.manim.community) projects with [QR Codes](https://en.wikipedia.org/wiki/QR_code).
